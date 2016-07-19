@@ -1,2 +1,0 @@
-# BookList App
-
